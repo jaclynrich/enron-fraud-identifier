@@ -1,2 +1,4 @@
 Resources
 https://www.investopedia.com/updates/enron-scandal-summary/
+https://en.wikipedia.org/wiki/Enron_scandal
+https://discussions.udacity.com/t/what-is-the-proper-way-to-handle-nan/24593
