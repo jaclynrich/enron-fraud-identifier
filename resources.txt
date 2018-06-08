@@ -1,4 +1,13 @@
 Resources
 https://www.investopedia.com/updates/enron-scandal-summary/
 https://en.wikipedia.org/wiki/Enron_scandal
-https://discussions.udacity.com/t/what-is-the-proper-way-to-handle-nan/24593
+https://stackoverflow.com/questions/18414995/how-can-i-sort-tuples-by-reverse-yet-breaking-ties-non-reverse-python
+https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74
+https://www.analyticsvidhya.com/blog/2018/05/improve-model-performance-cross-validation-in-python-r/
+https://www.ritchieng.com/machine-learning-cross-validation/
+https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6
+https://stats.stackexchange.com/questions/244507/what-algorithms-need-feature-scaling-beside-from-svm
+http://scikit-learn.org/stable/auto_examples/model_selection/plot_grid_search_digits.html
+http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html
+https://www.quora.com/Does-it-make-sense-to-use-feature-selection-before-Random-Forest
